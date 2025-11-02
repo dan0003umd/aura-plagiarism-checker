@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+google-generativeai
+requests
+beautifulsoup4
+googlesearch-python
+google-search-results 
+serpapi
+sentence-transformers
+numpy
+scipy
+pydantic
