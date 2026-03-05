@@ -6,8 +6,8 @@ This repository contains the backend FastAPI service and the Streamlit UI. The b
 ---
 
 ## Live demo (after deployment)
-- Backend (example): `https://aura-backend.onrender.com/`  
-- Frontend (example): `https://aura-frontend.streamlit.app/`
+- Backend (Technical Preview): `https://aura-backend.onrender.com/`  
+- Frontend (Deployment Pending): `https://aura-frontend.streamlit.app/`
 
 > Above are demo links, the working one will be shared soon...
 
