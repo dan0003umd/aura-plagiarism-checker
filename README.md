@@ -1,4 +1,4 @@
-# 🌌 AURA — AI Unified Rewriting & Analysis
+# 🌌 AURA - AI Unified Rewriting & Analysis
 
 AURA is a plagiarism-detection assistant (with rewrite guidance) built with **FastAPI** (backend) and **Streamlit** (frontend).  
 This repository contains the backend FastAPI service and the Streamlit UI. The backend uses embedding-based similarity (sentence-transformers) to detect semantic plagiarism.
